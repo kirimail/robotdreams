@@ -1,0 +1,14 @@
+dev:
+  username: "rd_dreams"
+  password: "djT6LasE"
+  authurl: "https://robot-dreams-de-api.herokuapp.com/auth"
+  dataurl: "https://robot-dreams-de-api.herokuapp.com/out_of_stock"
+  timeout: "30"
+  daysback: "5"
+prod:
+  username: "rd_dreams"
+  password: "djT6LasE"
+  authurl: "https://robot-dreams-de-api.herokuapp.com/auth"
+  dataurl: "https://robot-dreams-de-api.herokuapp.com/out_of_stock"
+  timeout: "10"
+  daysback: "30"
